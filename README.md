@@ -2,13 +2,13 @@
 
 ### Estrutura das pastas:
 * 1_documentos:
-    Documentação do projeto.
+Documentação do projeto.
 
 * 2_dados:
-    Conjunto de dados gerado.
+Conjunto de dados gerado.
 
 * 3_analises:
-    Análises exploratórias e preditivas
+Análises exploratórias e preditivas.
 
 * 4_modelos:
-    Modelos já treinados
+Modelos já treinados.
