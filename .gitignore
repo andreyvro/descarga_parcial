@@ -1,9 +1,3 @@
-# Dados
-2_dados/*
-!2_dados/.gitkeep
-4_modelos/*
-!4_modelos/.gitkeep
-
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
